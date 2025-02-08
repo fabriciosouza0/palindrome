@@ -1,2 +1,4 @@
-# palindrome
-A leetcode challenge
+# Polindrome leetcode challenge
+
+- Valid Palindrome - LeetCode
+- Made in PHP
